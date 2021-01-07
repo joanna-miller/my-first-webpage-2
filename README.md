@@ -13,7 +13,7 @@
 
 ## Description
 
-_A simple webpage practicing skills that I have learned during my first two days of coding class. Features working hyperlinks._
+_A simple webpage practicing skills that I have learned during my first week days of coding class. Features hyperlinks to other pages._
 
 ## Setup/Installation Requirements
 
