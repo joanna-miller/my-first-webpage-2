@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+body {
+  background-color: #b8dbd9;
+  color: #f4f4f9
+}
+
+.jumbotron {
+  background-color: #2f4550;
+}
+
+a {
+  color: #f4f4f9
+}
+
+.intro {
+  text-align: center;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card {
+  background-color: #586f7c
+}
+
+.photo {
+  border-radius: 50%;
+  height: 300px;
+  float: right;
+  box-shadow: 0 8px 10px 0 gray;
+}

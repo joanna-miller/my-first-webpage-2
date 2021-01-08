@@ -1,5 +1,5 @@
 h1 {
-  color: turquoise;
+  color: #2f4550;
   text-align: center;
   font-family: sans-serif;
 }
@@ -22,4 +22,13 @@ ul {
   font-size: 20px;
   line-height: 30px;
   font-family: sans-serif;
+}
+
+body {
+  background-color: #b8dbd9;
+  color: #f4f4f9
+}
+
+a {
+  color: #f4f4f9;
 }
